@@ -1,0 +1,3 @@
+﻿The work is all that matters.
+This is a multi line test file
+that has many options to help count how many words end in a t or e.
